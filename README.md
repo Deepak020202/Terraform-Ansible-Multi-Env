@@ -1,10 +1,10 @@
-# 🌐 Multi-Environment Setup with Terraform & Ansible
+#  Multi-Environment Setup with Terraform & Ansible
 
 🔗 **LinkedIn:** [https://www.linkedln.deepakpatel-devops](https://www.linkedln.deepakpatel-devops)
-
+🔗 **Implementation Video:** 
 ---
 
-## 📘 1. Project Overview
+##  1. Project Overview
 
 This project demonstrates the design and deployment of a **multi-environment infrastructure** using:
 
@@ -17,15 +17,15 @@ Three separate environments are set up:
 - `stg` (Staging)
 - `prod` (Production)
 
-### 🧠 This setup ensures:
-- 🚀 Faster onboarding of environments  
-- 🧪 Consistent deployment pipelines  
-- 🔧 Minimal manual intervention  
-- 🧭 Clear environment segregation  
+###  This setup ensures:
+-  Faster onboarding of environments  
+-  Consistent deployment pipelines  
+-  Minimal manual intervention  
+-  Clear environment segregation  
 
 ---
 
-## 🧩 2. Project Architecture
+##  2. Project Architecture
 
 The architecture enables a **DevOps Engineer** to manage and scale infrastructure from a central system, using:
 
@@ -33,46 +33,47 @@ The architecture enables a **DevOps Engineer** to manage and scale infrastructur
 - **Ansible inventory files** (`dev`, `stg`, `prod`) for executing targeted configurations  
 - Independent configuration states for each environment to maintain **isolation and control**
 
-📌 *See project diagram for visual reference (available in repo).*
+ *See project diagram for visual reference (available in repo).*
 
 ---
 
-## ⚙️ 3. Tech Stack Used
+##  3. Tech Stack Used
 
-### 🔧 Infrastructure Provisioning
+###  Infrastructure Provisioning
 - **Terraform**
   - Declarative Infrastructure as Code (IaC)
   - Remote state support (optional)
   - Reusable module pattern
 
-### 🧰 Configuration Management
+###  Configuration Management
 - **Ansible**
   - Environment-specific inventory files
   - Role-based Nginx configuration
   - SSH-based orchestration
 
-### 📦 Web Hosting
+###  Web Hosting
 - **Nginx**
   - Serves static HTML portfolio
   - Managed via Ansible
 
-### ☁️ Cloud Platform
+###  Cloud Platform
 - **AWS**
-  - EC2 (`t2.micro`) instances per environment
-  - Public IP access for testing
+  - EC2 instances per environment
+  - S3 Bucket
+  - DynamoDB
 
-### 💻 Developer Environment
+###  Developer Environment
 - **Ubuntu**
   - Git, Terraform, and Ansible installed
   - CLI-based operations
 
 ---
 
-## ✅ 4. Conclusion
+##  4. Conclusion
 
 This project establishes a **modular, scalable, and environment-driven** infrastructure setup using **Terraform and Ansible**, following DevOps best practices.
 
-### 🔍 Key Takeaways:
+### Key Takeaways:
 - Clear segregation and reproducibility across environments  
 - All setup is defined and managed as code  
 - Easily extensible with CI/CD pipelines, monitoring, TLS setup, and more
