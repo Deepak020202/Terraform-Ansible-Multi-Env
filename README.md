@@ -29,7 +29,9 @@ Three separate environments are set up:
 
 ##  2. Project Architecture
 
-Project-design.gif
+
+![Architecture Overview](Project-desgin.gif)
+
 
 The architecture enables a **DevOps Engineer** to manage and scale infrastructure from a central system, using:
 
