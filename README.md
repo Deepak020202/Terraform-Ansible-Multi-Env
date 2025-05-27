@@ -2,7 +2,7 @@
 
 🔗 *LinkedIn:* www.linkedin.com/in/deepakpatel-devops
 
-🔗 *Implementation Video:* https://drive.google.com/file/d/1Yh9g_iV5SsBih2xB8AtR8FAf9L23NklN/view?usp=drivesdk
+🔗 *Implementation Video:* [https://drive.google.com/file/d/1Yh9g_iV5SsBih2xB8AtR8FAf9L23NklN/view?usp=drivesdk](https://drive.google.com/file/d/1Yh9g_iV5SsBih2xB8AtR8FAf9L23NklN/view)
 
 ---
 
