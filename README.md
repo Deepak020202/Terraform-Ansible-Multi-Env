@@ -29,7 +29,7 @@ Three separate environments are set up:
 
 ##  2. Project Architecture
 
-https://github.com/Deepak020202/Terraform-Ansible-Multi-Env/blob/main/Project-design.gif
+Project-design.gif
 
 The architecture enables a **DevOps Engineer** to manage and scale infrastructure from a central system, using:
 
