@@ -1,6 +1,6 @@
 #  Multi-Environment Setup with Terraform & Ansible
 
-🔗 *LinkedIn:* [https://www.linkedln.deepakpatel-devops](https://www.linkedln.deepakpatel-devops)
+🔗 *LinkedIn:* www.linkedin.com/in/deepakpatel-devops
 
 🔗 *Implementation Video:* https://drive.google.com/file/d/1Yh9g_iV5SsBih2xB8AtR8FAf9L23NklN/view?usp=drivesdk
 
